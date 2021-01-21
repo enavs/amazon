@@ -1,0 +1,61 @@
+/*.content {
+    background-color: 
+    width: 300px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    margin: 20px;
+
+}
+*/
+
+.amazon_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 101px;
+    height: 31;
+}
+
+.continue {
+    background-color: #F2CE73;
+    border: black;
+    color: black;
+    padding: 5px 226px;
+    text-align: center;
+    display: inline-block;2
+    font-size: 12px;
+    margin: 4px 2px;
+}
+
+
+.create {
+    background-color: lightgray;
+    border: black;
+    color: black;
+    padding: 5px 155px;
+    text-align: center;
+    display: inline-block;2
+    font-size: 12px;
+    margin: 4px 2px;
+}
+
+
+
+.copyright {
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+h6 {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 10px; 
+ } 
+ 
+ h6 span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
